@@ -18,7 +18,7 @@
 
 # Hi there, I'm Şafak Balcı! 
 
-💻 Management Information Systems Student | Tech Enthusiast | Developer
+Management Information Systems Student | Tech Enthusiast | Developer
 
 I'm a Management Information Systems student at **Istanbul University**, passionate about technology, software development, and exploring how things work.
 
@@ -34,7 +34,7 @@ I enjoy combining technology with creativity, building projects, experimenting w
 - Always learning something new and working on personal projects.
 - I believe every great project starts with curiosity.
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 **Programming & Development**
 - Python
